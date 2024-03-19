@@ -1,3 +1,14 @@
+
+## database connection with sql server authentication
+
+Server=demo\\SQLEXPRESS; Database=ASPANGULARDb;User Id=******;password=********;
+
+## Set Openssl config in pacage.json
+set NODE_OPTIONS=--openssl-legacy-provider
+
+
+# Default Readme content
+
 # Important
 
 Issues of this repository are tracked on https://github.com/aspnetboilerplate/aspnetboilerplate. Please create your issues on https://github.com/aspnetboilerplate/aspnetboilerplate/issues.
