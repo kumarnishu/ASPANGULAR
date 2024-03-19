@@ -1,7 +1,7 @@
 
 ## database connection with sql server authentication
 
-Server=demo\\SQLEXPRESS; Database=ASPANGULARDb;User Id=******;password=********;
+Server=demo\\SQLEXPRESS; Database=ASPANGULARDb;User Id=kshkd;password=sdsdsd;
 
 ## Set Openssl config in pacage.json
 set NODE_OPTIONS=--openssl-legacy-provider
